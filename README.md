@@ -2,7 +2,7 @@
 
 **Ad Soyad:** Veli Deniz Ayhan
 **Öğrenci No:** 23181616013
-**E-posta:** [Öğrenci e-posta adresini buraya yazabilirsin]
+**E-posta:** vdeniz.ayhan@gazi.edu.tr
 
 ## Kurulum Adımları
 1. Sunucu üzerinde gerekli paketler (Docker, nftables vb.) kuruldu.
