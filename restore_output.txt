@@ -1,0 +1,31 @@
+SET
+SET
+SET
+SET
+SET
+ set_config 
+------------
+ 
+(1 row)
+
+SET
+SET
+SET
+SET
+SET
+SET
+ERROR:  relation "items" already exists
+ALTER TABLE
+ERROR:  relation "items_id_seq" already exists
+ALTER TABLE
+ALTER SEQUENCE
+ALTER TABLE
+COPY 0
+ setval 
+--------
+      1
+(1 row)
+
+ERROR:  multiple primary keys for table "items" are not allowed
+ERROR:  relation "ix_items_id" already exists
+ERROR:  relation "ix_items_title" already exists
