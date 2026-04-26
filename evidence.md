@@ -188,16 +188,19 @@ CREATE INDEX
 **Restore başarılı** — hiçbir ERROR mesajı alınmamıştır.
 
 ---
-
 ## 7. Ekran Görüntüleri (Screenshots)
 
-Aşağıdaki ekran görüntüleri bu repo içinde mevcuttur:
+### FastAPI /docs (Swagger UI)
+![FastAPI docs](ss_01_fastapi_docs.png)
 
-| # | Kanıt | Açıklama |
-|---|---|---|
-| 1 | AWS Security Group | Inbound: 22 (sadece kendi IP), 80 (0.0.0.0/0) — DB portları kapalı |
-| 2 | EC2 Instance Running | AWS konsolunda instance "running" durumu |
-| 3 | FastAPI /docs | Swagger UI ekranı |
-| 4 | Tarayıcıdan bağlantı | http://[SUNUCU_IP] üzerinden erişim |
-| 5 | SSH bağlantısı | Terminal ile SSH oturumu |
-| 6 | SFTP / git pull deploy | Dosya aktarımı veya deploy gösterimi |
+### Health Endpoint (Tarayıcıdan Bağlantı)
+![Health endpoint](ss_02_health_endpoint.png)
+
+### EC2 Instance Running Durumu
+![EC2 running](ss_03_ec2_running.png)
+
+### AWS Security Group Inbound Kuralları
+![AWS Security Group](ss_04_aws_security_group.png)
+
+### SSH Terminal Bağlantısı
+![SSH terminal](ss_05_ssh_terminal.png)
