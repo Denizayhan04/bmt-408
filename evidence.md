@@ -148,7 +148,7 @@ docker exec -i proje-db-1 psql -U user -d projedb -c "DROP TABLE IF EXISTS items
 gunzip -c /home/gazi/proje/backup/db_backup_2026-04-20.sql.gz | docker exec -i proje-db-1 psql -U user -d projedb
 ```
 
-### Çıktı (Hatasız)
+### Çıktı 
 
 ```
 DROP TABLE
