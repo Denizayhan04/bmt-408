@@ -1,4 +1,4 @@
-# BMT-408 Proje Kanıt Dosyası
+# BMT-408 Proje Evidence Dosyası
 
 **Ad Soyad:** Veli Deniz Ayhan  
 **Öğrenci No:** 23181616013  
